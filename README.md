@@ -1,7 +1,7 @@
 # Swiggy-Clone
 Make Swiggy Clone Website using HTML/CSS.
 
-**Preview:** [Demo Swiggy Clone](https://swiggyclone.in-imitable.repl.co)
+**Preview:** [Demo Swiggy Clone](https://anshika2618.github.io/SWIGGY-CLONE/))
 
 # Landing Page
 The User/Customer can search for his/her location here & can find restaurants in their locality( for the demo we have restaurant info of Delhi,India only)
@@ -17,17 +17,13 @@ The user can view restaurants of different categories here & can filter them acc
 
 ## Getting Started
 
-**Just fork it and feel free to use it.**
-
-To get a local copy up and running follow these simple example steps.
+.
 
 ### Prerequisites
 
 Having a web browser, code editor and git.
 
-### Install
 
-Just fork it and you are good to go.
 
 
 ## Show your support
